@@ -20,4 +20,4 @@ My custom additions to the game include:
 
 Github Repository: https://github.com/Andyhim/IDEA310-Project2-V3
 
-YouTube Demo: https://youtu.be/QIwlk91D4Xo
+YouTube Demo: https://youtu.be/SqKD2ME2nCQ
